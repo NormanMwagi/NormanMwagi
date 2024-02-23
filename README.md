@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NormanMwagi
-- 👀 I’m interested in C#, .Net,React, Javascript,Html, CSS and Node Js.
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in C#, Python, PHP .Net,React, Javascript,Html, CSS and Node Js.
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me:
 - Phone No: +254792037392
 - Email: normanmwagi23@gmail.com
