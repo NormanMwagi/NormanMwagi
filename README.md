@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mamasgold** [https://github.com/NormanMwagi/Mamasgold-lactation]
 
-- 🌱 I’m currently learning **MCP**
+- 🌱 I’m currently learning **Devops, mcp and gcp**
 
 - 👨‍💻 All of my projects are available at [https://mwagi-portfolio.netlify.app/](https://mwagi-portfolio.netlify.app/)
 
